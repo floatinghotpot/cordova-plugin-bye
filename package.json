@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-bye",
+  "version": "0.1.0",
+  "description": "Cordova plugin to show bye before quit app",
+  "cordova": {
+    "id": "cordova-plugin-bye",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floatinghotpot/cordova-plugin-bye.git"
+  },
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/cordova-plugin-bye/issues"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "phonegap",
+    "ionic",
+    "ecosystem:cordova",
+    "cordova-android",
+    "rjfun",
+    "bye"
+  ],
+  "author": {
+    "name": "Raymond Xie",
+    "email": "rjfun.mobile@gmail.com"
+  },
+  "license": "MIT"
+}
