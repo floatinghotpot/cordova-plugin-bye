@@ -32,6 +32,9 @@
     <resource-file src="src/android/res/layout/bye_layout.xml" target="res/layout/bye_layout.xml" />
     <resource-file src="src/android/res/layout-v16/bye_layout.xml" target="res/layout-v16/bye_layout.xml" />
     <resource-file src="src/android/res/values/ids.xml" target="res/values/ids.xml" />
+
+    <framework src="com.android.support:support-v4:+" />
+    <framework src="src/android/android-support.gradle" custom="true" type="gradleReference" />
   </platform>
 
 </plugin>
